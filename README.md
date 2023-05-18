@@ -16,7 +16,7 @@ O desafio desse projeto consiste na criação de formulário de avaliação de m
 
 <br>
 
-Quer conferir como ficou a landing page SpaceCream? 
+Quer conferir como ficou o formulário de avaliação? 
 
 [Visite o projeto online](https://eltonprado.github.io/Projeto07_FormularioAvaliacao/)
 
